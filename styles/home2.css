@@ -1,0 +1,165 @@
+.h-container {
+    min-width: 1386px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+    border-bottom: 1px solid red;
+}
+
+.header-logo {
+    font-size: 24px;
+}
+
+.header-buttons {
+    display: flex;
+    gap: 16px;
+}
+
+.header-nav ul {
+    display: flex;
+    justify-content: center;
+    color: #726E8D;
+    gap: 44px;
+    padding: 20px 0;
+}
+
+.section.what-makes {
+    padding-top: 80px;
+    padding-bottom: 82px;
+}
+
+.section-title {
+    font-size: 24px;
+    margin-bottom: 36px;
+    display: flex;
+    justify-content: center;
+    padding: 48px;
+}
+
+.what-makes-boxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.what-make-box {
+    background: aliceblue;
+    width: 305px;
+    /* border: 1px solid red; */
+    height: 244px;
+    padding: 48px;
+}
+
+.what-make-icon img {
+    width: 24px;
+    margin-bottom: 12px;
+}
+
+.what-make-text {
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+.what-make-description {
+    width: 100%;
+}
+
+.i-img {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    padding-top: 60px;
+}
+
+.i-img img {
+    width: 305px;
+    height: 375px;
+}
+
+.view-collection {
+padding: 48px;
+width: 170pxpx;
+height: 56pxpx;
+margin-left: 635px; 
+}
+
+.two-img{
+display: flex;
+justify-content: space-between;
+gap: 12px;
+}
+.purple{
+background: #2A254B;
+width: 734px;
+height: 478px;
+color: #fff;
+gap: 12px;
+}
+.purple h1{
+font-family: Clash Display;
+font-size: 32px;
+margin-top: 50px;
+margin-left: 64px;
+}
+.purple p{
+font-family: Satoshi;
+font-size: 18px;
+margin-left: 64px;
+}
+.two-img img{
+    width: 734px;
+    height: 478px;
+}
+.btn-view{
+width: 170pxpx;
+height: 56pxpx;
+margin-top: 238px;
+margin-left: 64px;
+padding: 16px 32px 16px 32px;
+gap: 10px;
+opacity: 0px;
+}
+
+.fon{
+background: url(../images/png/Image.png)
+no-repeat center/cover;
+min-width: 100vh;
+min-height: 100vh;
+}
+#mail{
+width: 554px;
+height: 64px;
+padding: 17px 205px 17px 32px;
+margin-top: 450px;
+margin-left: 390px;
+}
+#btn-mail{
+width:150px;
+height: 64px;
+padding: 17px 32px;
+gap: 1px;
+background: #2A254B;
+color: #fff;
+}
+.f-background{
+    background: #2A254B;
+    width: 100%;
+    height: 444px;
+}
+
+.footer-f{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.p1{
+    font-size: 16px;
+}
+p{
+    font-size: 14px;
+}
+.f-background{
+    display: flex;
+    justify-content: space-between;
+}

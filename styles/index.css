@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+}
+.container{
+    min-width: 1280px;
+    width: 100%;
+    margin: auto;
+    border: 1px solid red;
+}
+
+ol, ul {
+    list-style:  none;
+}
+
+img{
+   width:  100%;
+}
